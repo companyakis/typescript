@@ -4,6 +4,6 @@ function doesWork(): never {
 
 doesWork()
 
-let aNumber: number = 200 //we see "breakpoint warning". why?
+let aNumber: number = 200 //a warning". why?
 
 //A function returning 'never' cannot have a reachable end point.
