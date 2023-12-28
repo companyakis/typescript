@@ -13,3 +13,7 @@ console.log(unknownVariable3) //null
 unknownVariable3 = 23
 
 console.log(unknownVariable3) //23
+
+let unknownVariable4: undefined = undefined
+
+//console.log(unknownVariable4) //undefined
